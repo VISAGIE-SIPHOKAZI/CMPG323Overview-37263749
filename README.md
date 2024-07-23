@@ -26,7 +26,7 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
 # Project 5 - Power BI Reporting
   ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
   Description:In this project, I will make graphs and charts with Power BI to show how much time our automated projects save. I will use Power BI Desktop to create these reports and Azure to store and organize the data. 
-  ## Branching Strategy: Development happens on the develop branch, features are branched off develop, and releases are managed through release branches.
+  # Branching Strategy: Development happens on the develop branch, features are branched off develop, and releases are managed through release branches.
 
 
 
