@@ -4,7 +4,7 @@
 Welcome to the CMPG 323 module projects repository! This repository is where I manage and document the projects I'll be working on this semester. Each project is aimed at improving my skills in software development, project management, and using technologies like Agile methods, cloud computing, robotic process automation (RPA), and data visualization.
 
 # Project 1 - Agile (Scrum)
-  # Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
   Description: This project teaches Agile principles, especially Scrum, for managing projects well. It focuses on developing things step-by-step, being flexible with changes, and giving value bit by bit to the people involved.
   Branching Strategy:  Feature branches are created from main for development and merged back via pull requests.
   
