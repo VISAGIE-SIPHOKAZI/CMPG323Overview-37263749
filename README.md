@@ -6,7 +6,21 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
 # Project 1 - Agile (Scrum)
   ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
   Description: This project teaches Agile principles, especially Scrum, for managing projects well. It focuses on developing things step-by-step, being flexible with changes, and giving value bit by bit to the people involved.
-  - Branching Strategy:  Feature branches are created from main for development and merged back via pull requests.
+  - Branching Strategy:  A well-defined branching strategy helps in managing code changes efficiently and ensuring that development, testing, and production workflows are smooth.
+    Main Branch: Production-ready code. Merge only after thorough testing.
+    Develop Branch: Integration of new features and bug fixes before merging into main.
+    Bug-Fix Branches: Address specific bugs. Merge into the relevant branch after fixes.
+    
+  - Gitignore Files: The .gitignore file is used to specify files and directories that should not be tracked by Git. It helps keep your repository clean by ignoring unnecessary or sensitive files that don’t need to be version-controlled.
+    Build artifacts (dist/, build/)
+    Environment files (.env)
+
+  - Credentials and Sensitive Information
+    Credentials and sensitive information should never be stored directly in your Git repositories.
+    Environment Variables: Store sensitive data in environment variables.
+    Configuration Files: Use .env files locally and ignore them in Git.
+    Encryption: Encrypt sensitive data if needed.
+    Access Controls: Restrict access to sensitive information to authorized users.
   
 # Project 2 - NWU Tech Trends CRUD API
   ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
