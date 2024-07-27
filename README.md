@@ -10,11 +10,11 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
 
 # Project 2 - NWU Tech Trends CRUD API
   ## Repository: to be created
-  Description: In this project, I will create a basic web tool on Azure that handles data about how often our automations run. I use Visual Studio and .NET to build it, and I stick to a simple way of arranging how the web addresses work. 
+  Description: In this project, I will create a basic web tool on Azure that handles data about how often our automations run. I will use Visual Studio and .NET to build it, and I stick to a simple way of arranging how the web addresses work. 
   
 # Project 3 - Blazor Application Enhancement
   ## Repository: to be created
-  Description: In this project, I will improve a Blazor app that already adds, edits, and removes info about projects and clients. I use Visual Studio 2022 and .NET 8 to make sure everything is set up well and follows good ways of writing code.
+  Description: In this project, I will improve a Blazor app that already adds, edits, and removes info about projects and clients. I will use Visual Studio 2022 and .NET 8 to make sure everything is set up well and follows good ways of writing code.
 
 # Project 4 - UiPath RPA Implementation
   ## Repository: to be creates
