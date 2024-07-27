@@ -9,19 +9,19 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
   
 
 # Project 2 - NWU Tech Trends CRUD API
-  ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository: to be created
   Description: In this project, I will create a basic web tool on Azure that handles data about how often our automations run. I use Visual Studio and .NET to build it, and I stick to a simple way of arranging how the web addresses work. 
   
 # Project 3 - Blazor Application Enhancement
-  ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository: to be created
   Description: In this project, I will improve a Blazor app that already adds, edits, and removes info about projects and clients. I use Visual Studio 2022 and .NET 8 to make sure everything is set up well and follows good ways of writing code.
 
 # Project 4 - UiPath RPA Implementation
-  ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository: to be creates
   Description: In this project, I will use UiPath to make robots that do jobs automatically. I will set them up to work with the current systems and make sure everything runs smoothly.
 
 # Project 5 - Power BI Reporting
-  ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository: to be created
   Description:In this project, I will make graphs and charts with Power BI to show how much time our automated projects save. I will use Power BI Desktop to create these reports and Azure to store and organize the data. 
 
 
@@ -29,10 +29,13 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
     Main Branch: Production-ready code. Merge only after thorough testing.  
     Develop Branch: Integration of new features and bug fixes before merging into main.  
     Bug-Fix Branches: Address specific bugs. Merge into the relevant branch after fixes.  
+    Release Branches: Prepare code for release.
+
     
   ### Gitignore Files: The .gitignore file is used to specify files and directories that should not be tracked by Git. It helps keep your repository clean by ignoring unnecessary or sensitive files that don’t need to be version-controlled.
     Build artifacts (dist/, build/)
     Environment files (.env)
+    IDE/editor settings (.vscode/)
 
   ### Credentials and Sensitive Information
     Credentials and sensitive information should never be stored directly in your Git repositories.
