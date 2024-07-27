@@ -1,5 +1,5 @@
 # CMPG323Overview-37263749
-#INTRODUCTION
+
 
 Welcome to the CMPG 323 module projects repository! This repository is where I manage and document the projects I'll be working on this semester. Each project is aimed at improving my skills in software development, project management, and using technologies like Agile methods, cloud computing, robotic process automation (RPA), and data visualization.
 
@@ -7,9 +7,9 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
   ## Repository: https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
   Description: This project teaches Agile principles, especially Scrum, for managing projects well. It focuses on developing things step-by-step, being flexible with changes, and giving value bit by bit to the people involved.
   - Branching Strategy:  A well-defined branching strategy helps in managing code changes efficiently and ensuring that development, testing, and production workflows are smooth.
-    Main Branch: Production-ready code. Merge only after thorough testing.
-    Develop Branch: Integration of new features and bug fixes before merging into main.
-    Bug-Fix Branches: Address specific bugs. Merge into the relevant branch after fixes.
+    Main Branch: Production-ready code. Merge only after thorough testing.  
+    Develop Branch: Integration of new features and bug fixes before merging into main.  
+    Bug-Fix Branches: Address specific bugs. Merge into the relevant branch after fixes.  
     
   - Gitignore Files: The .gitignore file is used to specify files and directories that should not be tracked by Git. It helps keep your repository clean by ignoring unnecessary or sensitive files that don’t need to be version-controlled.
     Build artifacts (dist/, build/)
