@@ -17,7 +17,7 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
   Description: In this project, I will improve a Blazor app that already adds, edits, and removes info about projects and clients. I will use Visual Studio 2022 and .NET 8 to make sure everything is set up well and follows good ways of writing code.
 
 # Project 4 - UiPath RPA Implementation
-  ## Repository: to be creates
+  ## Repository: to be created
   Description: In this project, I will use UiPath to make robots that do jobs automatically. I will set them up to work with the current systems and make sure everything runs smoothly.
 
 # Project 5 - Power BI Reporting
