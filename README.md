@@ -27,7 +27,7 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
     Access Controls: Restrict access to sensitive information to authorized users.
 
 # Project 2 - NWU Tech Trends CRUD API
-  ## Repository:  https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository:  https://github.com/VISAGIE-SIPHOKAZI/CMPG-323-Project-2-37263749
   Description: In this project, I will create a basic web tool on Azure that handles data about how often our automations run. I will use Visual Studio and .NET to build it, and I stick to a simple way of arranging how the web addresses work. 
 
    ### Branching Strategy:  A well-defined branching strategy helps in managing code changes efficiently and ensuring that development, testing, and production workflows are smooth.
