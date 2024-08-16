@@ -50,7 +50,7 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
     Access Controls: Restrict access to sensitive information to authorized users.
   
 # Project 3 - Blazor Application Enhancement
-  ## Repository:  https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository:  https://github.com/VISAGIE-SIPHOKAZI/CMPG323Project3_37263749.git
   Description: In this project, I will improve a Blazor app that already adds, edits, and removes info about projects and clients. I will use Visual Studio 2022 and .NET 8 to make sure everything is set up well and follows good ways of writing code.
 
    ### Branching Strategy:  A well-defined branching strategy helps in managing code changes efficiently and ensuring that development, testing, and production workflows are smooth.
