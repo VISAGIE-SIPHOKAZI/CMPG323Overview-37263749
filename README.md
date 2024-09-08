@@ -73,7 +73,7 @@ Welcome to the CMPG 323 module projects repository! This repository is where I m
     Access Controls: Restrict access to sensitive information to authorized users.
 
 # Project 4 - UiPath RPA Implementation
-  ## Repository:  https://github.com/VISAGIE-SIPHOKAZI/CMPG323Overview-37263749
+  ## Repository:  https://github.com/VISAGIE-SIPHOKAZI/CMPG323_PROJECT4.git
   Description: In this project, I will use UiPath to make robots that do jobs automatically. I will set them up to work with the current systems and make sure everything runs smoothly.
 
    ### Branching Strategy:  A well-defined branching strategy helps in managing code changes efficiently and ensuring that development, testing, and production workflows are smooth.
